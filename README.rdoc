@@ -1,0 +1,6 @@
+= playground-client
+
+Describe your project here
+
+:include:playground-client.rdoc
+
